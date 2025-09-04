@@ -13,7 +13,7 @@
 </html>
 
 <header>
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio de Lorena</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
@@ -33,7 +33,7 @@ de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou a Maria e estou começando no desenvolvimento web.
+Olá! Sou a Lorena e estou começando no desenvolvimento web.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
