@@ -28,8 +28,7 @@
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
-<img src="https://via.placeholder.com/240" alt="Retrato de Maria sorrindo
-de frente.">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Fespa%25C3%25A7o&psig=AOvVaw2hVYPHk5lP7Nj5mCItnjmR&ust=1757080227788000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi-upCgv48DFQAAAAAdAAAAABAE" alt="Retrato do Espaço.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
@@ -62,5 +61,29 @@ MDN Web Docs
 </article>
 </section>
 
+<section id="contato">
+<h2>Contato</h2>
+<form action="#" method="post">
+<p>
+<label for="nome">Nome</label><br>
+<input id="nome" name="nome" type="text" required>
+</p>
+<p>
+<label for="email">E-mail</label><br>
+<input id="email" name="email" type="email" required>
+</p>
+<p>
+<label for="mensagem">Mensagem</label><br>
+<textarea id="mensagem" name="mensagem" rows="4"
+required></textarea>
+</p>
+<p>
+<button type="submit">Enviar</button>
+</p>
+</form>
+</section>
+
 </main>
 <footer>
+<small>&copy; 2025 Lorena Protcz. Todos os direitos reservados.</small>
+</footer>
