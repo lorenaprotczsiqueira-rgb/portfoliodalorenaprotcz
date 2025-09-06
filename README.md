@@ -28,7 +28,8 @@
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Fespa%25C3%25A7o&psig=AOvVaw2hVYPHk5lP7Nj5mCItnjmR&ust=1757080227788000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi-upCgv48DFQAAAAAdAAAAABAE" alt="Retrato do Espaço.">
+<img src="<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a327554a-6b35-4260-80df-b80d1b803b53" />
+E" alt="Retrato de Lorena.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
